@@ -60,7 +60,7 @@ export default function Main1() {
                 /> 
             }
             {ingredients.length > 0 && ingredients.length < 4 &&
-                <p className="ingredient-hint">Please add at least 3 ingredients to get a recipe</p>
+                <p className="ingredient-hint">Please add at least 4 ingredients to get a recipe</p>
             }
             {recipe && <Recipe recipe={recipe} />}
         </main>
