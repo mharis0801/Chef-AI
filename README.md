@@ -6,3 +6,6 @@ This is an AI chef that uses Hugging Face Ai  to generate a recepie based on the
 
 Instructions: 
 Enter at least 4 ingredients for optimal results
+
+# Diagram #
+[img](diagram.png)
