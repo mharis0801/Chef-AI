@@ -8,4 +8,4 @@ Instructions:
 Enter at least 4 ingredients for optimal results
 
 # Diagram #
-[img](diagram.png)
+![img](diagram.png)
